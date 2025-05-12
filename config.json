@@ -1,7 +1,7 @@
 {
     "StopTimeoutMS": 5000,
     "WebServer": {
-        "Port": 8080,
+        "Port": 5000,
         "GIN": {
             "ReleaseMode": false,
             "UseLogger": true,
